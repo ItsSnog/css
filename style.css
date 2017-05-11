@@ -52,7 +52,9 @@ div.block-1 {
     font-style: italic;
     font-size: 12px;
     padding: 20px 30px;
-    background: url("./img/block-1-bg.png") repeat-x #2b8c57;
+    background: url("./img/block-1-bg.png");
+    background-repeat: repeat-x;
+    background-color: #2b8c57;
 }
 div.block-2 {
     color: white;
